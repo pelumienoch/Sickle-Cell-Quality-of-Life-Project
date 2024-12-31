@@ -1,0 +1,124 @@
+Type,doyou,PCV,lasttime,valueofPVC,Howmany,doyou_A,ifyes_A,noofhospital,noofblood,noofvisits,presence,stroke,chronic,neuropathy,avascular,chroniculcer,others,none,presence_A,specify,"(neuropathy = replace(neuropathy, neuropathy > NA, 0))"
+Hbss,No,,1-2 years ago,24.1,2,2,,0,0,0,Yes,0,0,1,0,1,,,,none,1
+Hbss,No,,1-2 years ago,24.1,2,2,,0,0,0,Yes,0,0,1,0,1,,,,none,1
+Hbss,No,,,,2,2,,0,0,0,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,,,2,2,,0,0,0,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,,,2,2,,0,0,1,Yes,0,0,0,1,0,,,,none,
+Hbss,,,1-2 years ago,,2,#NULL!,,0,0,0,Yes,0,0,1,0,0,,,,none,1
+Hbss,,,1-2 years ago,,2,#NULL!,,0,0,0,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,1-2 years ago,18.7,2,2,,0,0,0,Yes,0,0,1,0,1,,,,,1
+Hbss,No,,,,1,1,bloodly urine,0,0,1,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,,,1,1,bloodly urine,0,0,1,Yes,0,0,1,0,0,,,,none,1
+Hbss,Yes,28,1-2 years ago,12,2,#NULL!,,0,0,0,Yes,0,1,0,0,0,,,,none,
+Hbss,Yes,28,1-2 years ago,12,2,#NULL!,,0,0,0,Yes,0,1,0,0,0,,,,none,
+Hbss,No,,2-5 years ago,,1,2,,0,0,1,Yes,0,0,0,0,1,amonorrha,,,,
+Hbss,No,,>5 years ago,20,1,#NULL!,,0,0,0,Yes,0,0,0,0,0,amonorrha,,,,
+Hbss,No,,>5 years ago,20,1,#NULL!,,0,0,0,Yes,0,0,0,0,0,amonorrha,,,,
+Hbsc,No,,>5 years ago,30,2,2,,0,0,0,Yes,0,0,1,0,0,,,,,1
+Hbsc,No,,,,1,2,,0,0,1,Yes,0,0,1,0,0,,,,none,1
+Hbsc,No,,,,1,2,,0,0,1,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,1-2 years ago,21,1,1,sickle cell crises of bone pain,0,0,1,Yes,0,0,0,1,0,,,,none,
+Hbss,No,,,,1,1,body pain,0,0,1,Yes,0,0,0,0,1,,,,,
+Hbss,No,,,,1,1,body pain,0,0,1,Yes,0,0,0,0,1,,,,,
+Hbss,No,,1-2 years ago,26,1,1,body pain,0,0,0,Yes,0,0,1,0,0,,,,,1
+Hbss,No,,1-2 years ago,26,1,1,body pain,0,0,0,Yes,0,0,1,0,0,,,,,1
+Hbss,Yes,26,1-2 years ago,16,1,0.01,body pain,0,0,1,Yes,0,0,0,0,0,,,,none,
+Hbss,Yes,29,1-2 years ago,,2,2,,0,0,1,Yes,0,0,0,1,0,,,Yes,hearing loss,
+Hbss,No,,1-2 years ago,25.4,1,1,body pain,0,0,0,Yes,0,1,0,0,0,,,Yes,ulcer,
+Hbss,No,,1-2 years ago,25.4,1,1,body pain,0,0,0,Yes,0,1,0,0,0,,,Yes,ulcer,
+Hbss,Yes,24,1-2 years ago,22,1,1,body and chest,0,1,1,Yes,0,0,1,0,1,,,,,1
+Hbss,Yes,24,1-2 years ago,22,1,1,body and chest,0,1,1,Yes,0,0,1,0,1,,,,,1
+Hbss,No,,1-2 years ago,35,1,1,sickle cell crises of bone pain,1,0,1,Yes,0,0,0,0,1,,,,none,
+Hbss,Yes,,,,1,2,,1,0,1,Yes,0,0,1,0,1,,,,,1
+Hbss,Yes,18,,,2,2,,1,0,1,Yes,0,0,0,0,0,atthropathy,,,,
+Hbss,Yes,18,,,2,2,,1,0,1,Yes,0,0,0,0,0,atthropathy,,,,
+Hbss,No,,1-2 years ago,25,1,1,sickle cell crises of bone pain,1,0,1,Yes,0,0,1,0,0,,,,,1
+Hbss,Yes,20.5,1-2 years ago,24,1,1,sickle cell crises of bone pain,1,0,1,Yes,0,0,1,0,1,knee joint pain and swelling,,,none,1
+Hbss,No,,,,1,1,haemolytic,1,1,1,Yes,0,0,1,0,0,,,,,1
+Hbss,,,,,1,1,body aches and malaria,1,1,1,Yes,0,0,1,0,0,,,,,1
+Hbss,No,,,,1,1,body pain,1,1,1,Yes,0,0,1,0,1,,,,none,1
+Hbss,No,,,,1,1,body pain,1,1,1,Yes,0,0,1,0,1,,,,none,1
+Hbss,Yes,,<1 year ago,19,1,1,sickle cell crises of bone pain,1,1,1,Yes,0,0,0,0,0,,none,,,
+Hbss,Yes,,<1 year ago,19,1,1,sickle cell crises of bone pain,1,1,1,Yes,0,0,0,0,0,,none,,,
+Hbss,No,,1-2 years ago,,1,1,,1,1,1,Yes,0,0,1,0,0,,,,none,1
+Hbss,No,,1-2 years ago,,1,1,,1,1,1,Yes,0,0,1,0,0,,,,none,1
+Hbsc,No,,,,1,1,vasooccloive,1,0,0,Yes,0,0,0,0,1,acute chest syndrome,,Yes,chest pain,
+Hbsc,No,,,,1,1,vasooccloive,1,0,0,Yes,0,0,0,0,1,acute chest syndrome,,Yes,chest pain,
+Hbss,No,,1-2 years ago,22.5,1,2,,1,0,0,Yes,0,0,1,0,0,,,Yes,,1
+Hbss,No,,1-2 years ago,22,1,2,,1,1,1,Yes,0,1,0,0,0,,,Yes,peptic ulcer disease,
+Hbss,,25,1-2 years ago,29,1,1,vasooccloive,1,0,1,Yes,0,0,0,0,1,,,,,
+Hbss,Yes,35,,,1,1,body pain,1,1,1,Yes,0,0,1,0,1,,,,,1
+Hbss,Yes,28,,28,2,#NULL!,,1,1,1,Yes,0,0,0,0,0,peptic ulcer disease,,,,
+Hbss,Yes,28,,28,2,#NULL!,,1,1,1,Yes,0,0,0,0,0,peptic ulcer disease,,,,
+Hbss,Yes,,,,1,#NULL!,,0,0,0,,0,0,0,0,0,,,,none,
+Hbss,Yes,26,,,2,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,Yes,26,,,2,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,Yes,,,37,1,1,,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,Yes,,,37,1,1,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,1-2 years ago,28,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,28,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,Yes,22.5,1-2 years ago,24,1,1,body pain,0,0,1,,0,0,0,0,0,,,,none,
+Hbss,No,,,,2,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,2,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,Yes,28,2-5 years ago,28,2,#NULL!,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,Yes,30,,30,1,1,sickle cell crises of bone pain,0,0,0,,0,0,0,0,0,,none,,,
+Hbss,No,,1-2 years ago,26,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,22,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,22,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,1,#NULL!,sickle cell crises of bone pain,0,0,1,,0,0,0,0,0,,none,,,
+Hbss,No,,,,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbsc,,,,,1,2,,0,0,0,,0,0,0,0,0,,none,,,
+Hbss,,,,,1,1,,0,0,1,,0,0,0,0,0,,,,,
+Hbsc,Yes,28,1-2 years ago,25,2,1,,0,0,0,,0,0,0,0,0,,none,,,
+Hbss,Yes,24,1-2 years ago,24,1,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,Yes,24,1-2 years ago,24,1,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,Yes,34,,,1,1,sickle cell crises of bone pain,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,Yes,34,,,1,1,sickle cell crises of bone pain,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,Yes,23,,,2,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,No,,,,2,2,,0,0,0,,0,0,0,0,0,,,Yes,anaemia,
+Hbsc,No,,,,2,2,,0,0,0,,0,0,0,0,0,,,Yes,anaemia,
+Hbss,No,,1-2 years ago,,1,1,vasooccloive,0,0,0,,0,0,0,0,0,,,Yes,peptic ulcer disease,
+Hbss,No,,1-2 years ago,,1,1,vasooccloive,0,0,0,,0,0,0,0,0,,,Yes,peptic ulcer disease,
+Hbss,No,,,,1,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,Yes,22,1-2 years ago,14.6,1,1,vasooccloive,0,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,1,bone pain,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,1,bone pain,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,1-2 years ago,,1,1,vasooccloive,0,0,0,,0,0,0,0,0,,,,,
+Hbsc,No,,1-2 years ago,,2,2,,0,0,0,,0,0,0,0,0,,,,none,
+Hbss,No,,1-2 years ago,,1,2,,0,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,1-2 years ago,26,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,26,2,2,,0,0,0,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,1,1,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,2,,0,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,2,2,,0,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,,,2,2,,0,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,,,2,#NULL!,sickle cell crises of bone pain,0,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,,,2,#NULL!,sickle cell crises of bone pain,0,0,1,,0,0,0,0,0,,,,,
+Hbss,Yes,22,1-2 years ago,21,1,1,bone pain,0,0,0,,0,0,0,0,0,,none,,,
+Hbss,Yes,22,1-2 years ago,21,1,1,bone pain,0,0,0,,0,0,0,0,0,,none,,,
+Hbss,Yes,29,1-2 years ago,29,1,2,,0,0,1,,0,0,0,0,0,,,Yes,bone disease,
+Hbss,Yes,29,1-2 years ago,29,1,2,,0,0,1,,0,0,0,0,0,,,Yes,bone disease,
+Hbss,No,,,,1,2,,1,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,2,,1,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,1,sickle cell crises of bone pain,1,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,#NULL!,chest pain,1,0,1,,0,0,0,0,0,,none,,none,
+Hbss,Yes,29,1-2 years ago,28,1,1,vasooccloive,1,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,1,sickle cell crises of bone pain,1,0,1,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,1,1,sickle cell crises of bone pain,1,0,1,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,1,2,,1,0,0,,0,0,0,0,0,,,,,
+Hbss,No,,1-2 years ago,16,1,1,body pain,1,1,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,1,body pain,1,1,1,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,26,1,1,body pain,1,1,1,,0,0,0,0,0,,none,,none,
+Hbss,Yes,22,1-2 years ago,20,1,1,haemolytic,1,1,0,,0,0,0,0,0,,,,,
+Hbss,Yes,28,,18,2,0.01,,1,1,0,,0,0,0,0,0,,,,,
+Hbss,No,,,,1,#NULL!,vasooccloive,1,0,1,,0,0,0,0,0,,none,,,
+Hbss,No,,,,1,#NULL!,vasooccloive,1,0,1,,0,0,0,0,0,,none,,,
+Hbss,Yes,27,,,1,1,,1,0,1,,0,0,0,0,0,,,,,
+Hbss,No,,1-2 years ago,19,1,1,body pain,1,0,1,,0,0,0,0,0,,none,,none,
+Hbss,No,,1-2 years ago,19,1,1,body pain,1,0,1,,0,0,0,0,0,,none,,none,
+Hbss,No,,,,1,1,vasooccloive,1,1,0,,0,0,0,0,0,,,,,
+Hbss,Yes,20,<1 year ago,18,1,1,,1,0,1,,0,0,0,0,0,,,Yes,,
+Hbsc,,,,,1,2,vasooccloive,1,1,1,,0,0,0,0,0,,,Yes,cataract,
+Hbsc,,,,,1,2,vasooccloive,1,1,1,,0,0,0,0,0,,,Yes,cataract,
